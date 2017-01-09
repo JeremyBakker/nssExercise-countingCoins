@@ -1,5 +1,5 @@
 //Initialize a coin counting function
-function coinCounter (amount) {
+function coinCounter(amount) {
   
   // Initialize a JavaScript object to hold the coins
   var coinPurse = {};
